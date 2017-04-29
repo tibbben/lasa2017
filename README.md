@@ -1,8 +1,8 @@
-# Perú, Property and Persuasion:
+# Cadastral Mapping in Perú:
 
-This repository contains a short presentation for the Conservation Extraction Conundrum sessions at the AAG 2017 annual meeting.  
+This repository contains a short presentation for the History of Cartography and Cartographies of History in Peru sessions at the LASA 2017 annual congress.  
 
-If you are not looking for the repository, but simply the presentation, please see the [hosted version](http://tibbben.github.io/aag2017/). 
+If you are not looking for the repository, but simply the presentation, please see the [hosted version](http://tibbben.github.io/lasa2017/). 
 
 ---
 
