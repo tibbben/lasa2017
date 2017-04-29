@@ -1,0 +1,752 @@
+<svg id="timeline" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1600 670" x="0px" y="0px" xml:space="preserve">
+   <defs>
+    <style>
+      .cls-1, .cls-15, .cls-28, .cls-30, .cls-37, .cls-5, .cls-9 {
+        fill: none;
+      }
+
+      .cls-19, .cls-2, .cls-34 {
+        fill: #e5eebb;
+      }
+
+      .cls-13, .cls-2, .cls-3, .cls-4 {
+        fill-rule: evenodd;
+      }
+
+      .cls-27, .cls-3 {
+        fill: #ffdc62;
+      }
+
+      .cls-29, .cls-4 {
+        fill: #fff2cd;
+      }
+
+      .cls-15, .cls-17, .cls-18, .cls-19, .cls-22, .cls-30, .cls-5, .cls-9 {
+        stroke: #231f20;
+      }
+
+      .cls-15, .cls-17, .cls-18, .cls-19, .cls-22, .cls-28, .cls-30, .cls-37, .cls-5, .cls-9 {
+        stroke-miterlimit: 3.86;
+      }
+
+      .cls-17, .cls-18, .cls-19, .cls-22, .cls-5 {
+        stroke-width: 1.2px;
+      }
+
+      .cls-31, .cls-33, .cls-6, .cls-8 {
+        font-size: 8.67px;
+      }
+
+      .cls-12, .cls-13, .cls-14, .cls-21, .cls-31, .cls-32, .cls-35, .cls-36, .cls-38, .cls-6, .cls-8 {
+        fill: #231f20;
+      }
+
+      .cls-12, .cls-14, .cls-21, .cls-31, .cls-32, .cls-35, .cls-36, .cls-38, .cls-6, .cls-8 {
+        font-family: 'Source Sans Pro';
+      }
+
+      .cls-14, .cls-16, .cls-38, .cls-7, .cls-8 {
+        font-weight: 700;
+      }
+
+      .cls-9 {
+        stroke-width: 2.4px;
+      }
+
+      .cls-10, .cls-31 {
+        font-style: italic;
+      }
+
+      .cls-11, .cls-16, .cls-33 {
+        white-space: pre;
+      }
+
+      .cls-12 {
+        font-size: 8.67px;
+      }
+
+      .cls-14 {
+        font-size: 12.02px;
+      }
+
+      .cls-15 {
+        stroke-width: 3px;
+      }
+
+      .cls-17 {
+        fill: #fcb96a;
+      }
+
+      .cls-18 {
+        fill: url(#linear-gradient);
+      }
+
+      .cls-20 {
+        fill: url(#linear-gradient-2);
+      }
+
+      .cls-21 {
+        font-size: 7.7px;
+      }
+
+      .cls-22 {
+        fill: url(#linear-gradient-3);
+      }
+
+      .cls-23 {
+        fill: #e2e5f3;
+      }
+
+      .cls-24 {
+        fill: #f79d8b;
+      }
+
+      .cls-25 {
+        fill: #e1daec;
+      }
+
+      .cls-26 {
+        fill: url(#linear-gradient-4);
+      }
+
+      .cls-28 {
+        stroke: #fff2cd;
+      }
+
+      .cls-28, .cls-37 {
+        stroke-width: 3.61px;
+      }
+
+      .cls-32 {
+        font-size: 14px;
+      }
+
+      .cls-35 {
+        font-size: 8.67px;
+      }
+
+      .cls-36 {
+        font-size: 8.67px;
+      }
+
+      .cls-37 {
+        stroke: #fff;
+      }
+
+      .cls-38 {
+        font-size: 28.85px;
+      }
+	  
+      .cls-42 {
+        fill: #fff;
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="860.62" y1="348.37" x2="899.65" y2="348.37" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#fcb86a"/>
+      <stop offset="1" stop-color="#e3edbc"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="89.76" y1="348.4" x2="396.06" y2="348.4" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#bffffc"/>
+      <stop offset="0.13" stop-color="#ffbff6"/>
+      <stop offset="1" stop-color="#ffbff6"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-3" x1="860.38" y1="369.27" x2="970.02" y2="369.27" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#fff1c8"/>
+      <stop offset="0.29" stop-color="#ffdb62"/>
+      <stop offset="0.69" stop-color="#ffdb62"/>
+      <stop offset="1" stop-color="#e3edbc"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-4" x1="89.76" y1="327.64" x2="396.06" y2="327.64" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#fff457"/>
+      <stop offset="0.13" stop-color="#ebba50"/>
+      <stop offset="1" stop-color="#ffb666"/>
+    </linearGradient>
+   </defs>
+  <rect class="cls-1" width="1600" height="612"/>
+  <path class="cls-2" d="M592.67,164.67c-37-3-55.21-3.69-70.21-16.69-3.13-2.71-44.79,1.31-57.13,1.36-12.49,0,18.4-20.63,20.17-22.83,7.95-9.93,40.48-7.29,53-12.5,12.08-5,59.53-11.8,65-13.5C618,96,645.15,86.57,666,65c14.5-15,45.73-15.76,56-22,14-8.5,31-14.17,37.5-17.5,15.5-8,55.06-4.27,80-5,43.18-1.27,34.7-4.86,52.7-6.86,14.47-1.61,44.23,2.86,61.23,2.86s59.82-3.41,82.82,2.59S1092,22.67,1141,21.67,1244,44,1272,36s62.86,15.09,105.86,20.09,95.12,49.6,127,62c29.46,11.43-88.14,31.07-117.49,26.62-39.36-6-13.67,10-83.67,13.33-38.28,1.82-76.67,3.5-106.67,5.5s-134,25-159,14c-11.74-5.17-36.69,13.5-71.5,2.5C927.18,167.58,877,125.84,851,128.5c-16,1.63-29.57,61.61-52,62-104.16,1.73-104.81-49.77-124-46-25.32,5-9.33,10.5-46.33,7.5" transform="translate(0 0)"/>
+  <path class="cls-3" d="M461.33,232.67c-27.77-.39-199.82,15.71-230.82,11.1C198,238.93,99.3,236.83,92.33,233.33,75.05,224.66,49,116,93.5,117.5c75.56,2.55,119.5,1.5,171,39,17.77,12.94,63,22.5,115,17,46.53-4.92,73.31-24.28,81.5-26,8.39-1.77,60.87-3.12,68.55-3.78,13.92-1.2,37,9.11,52.45,12.28,9.65,2,30-6.67,48-6.67s20,1.42,37-4.58,37.64-5.86,48.5-.75c22.67,10.67,12,15,52.25,13.5C807.5,156,787,128.14,824,127c40.75-1.25,49.25-1.5,50.75-10,4.7-26.62-12.23-49.25,4.5-49.25,47,0,62.63-8.38,91.75-9.75,32-1.5,58.5,28,64.5,42.5,7.87,19,7.09,20.59,12.5,52,2.41,14,22.53,6.35,39-1,28-12.5,21.25-.26,39.67-7.5,33.07-13,69.38-6.17,117.38-.17,34.92,4.37,60.64,4.41,85.93,1,9.47-1.27,18.88-3,28.69-5.19,9.53-2.12,21.27-7,28.67-7.33,10.07-.49,113.28-16.76,119.67-13.33,6.64,3.56,64.5,23.37,67.5,32,4.4,12.64-7.37,73-7.17,80,0.17,5.72-25.59,13.1-40,14-15.85,1-136.38-28-149.67-28-13.54,0-32.76-3-40.33,1-15,8-147.67,27.33-170.67,29.33S587.52,243,561.52,239" transform="translate(0 0)"/>
+  <path class="cls-4" d="M560.2,219c4-31,75-16.54,99-16.54s88.71-11.24,109.71-11.24,51.37,1.84,64.77,3c17.77,1.48,53.49,5.33,62.92-2.22,14.81-11.84,36.87-16.92,59-16,29.76,1.28-17.32,28,82.74,28.22,21.78,0.06,34.22,28.57,53.75,30.11,42.54,3.35,41.54-4,58.63-7,69.2-12.07,16-42,67.33-42.67,18.35-.24,2.49,26.19,41.48,26.19,63.25,0,95.4-8.59,167.85-9.52,77.33-1,71,15.67,82.33,25,33.58,27.66,45.85,24.52,47,42.33,0.24,3.75-3.11,9.06-3.67,12.5-1.92,11.95-50.82-.31-52.75,1.94-6,7-68.39,0-100.39,4s-119.69-4.67-148.69-2.67-61.23,7.34-79.17,4.88c-48.67-6.67-60.17-4.67-90.17-2.67S1010.5,291,993.5,289s-57.79-2.38-61.79-2.38-13.61.38-29.61,0.38-11.94,1.46-34.94-3.54-114,16.27-136.7,7.6c-16.12-6.17-62.3-2.6-91.3-4.6s-120.5,1.54-155.81,4.1c-12.4.9-40.69,1-71.67-.32-53.35-2.23-79,2.1-108.68,6.43C280.4,300,100.67,305.33,92,283c-2-5.28-29.73-26.83-18.67-32.67,5.74-3,2.62-24,8.67-30.33,7.33-7.67,34.48-11.62,100.67-10.33C200.75,210,269.31,219.63,284,220c51.93,1.29,95,8.58,102,6.67,21.52-5.87,38.49,3.32,49.58,2.67,22.68-1.32,76.64-2.91,86.31-2.42C543.68,228,559,228.16,560.2,219Z" transform="translate(0 0)"/>
+  <g>
+    <line class="cls-5" x1="989.19" y1="305.57" x2="989.19" y2="366.92"/>
+    <text class="cls-6" transform="translate(991.16 372.06)"><tspan class="cls-7">1995</tspan><tspan x="0" y="9">‘re-election’</tspan><tspan x="0" y="18">Fujimori</tspan></text>
+  </g>
+  <g>
+    <line class="cls-5" x1="1076.55" y1="306.89" x2="1076.55" y2="470.5"/>
+    <text class="cls-6" transform="translate(1060.83 479.64)"><tspan class="cls-7">2002</tspan><tspan x="-17.1" y="9">law of de-</tspan><tspan x="-32.03" y="18">centralization</tspan></text>
+  </g>
+  <g>
+    <line class="cls-5" x1="1109.49" y1="305.81" x2="1109.25" y2="487"/>
+    <text class="cls-6" transform="translate(1104.44 497.68)"><tspan class="cls-7">2004</tspan><tspan x="0" y="9">Zonficacion</tspan><tspan x="0" y="18">Ecologica</tspan><tspan x="0" y="27">Economic</tspan><tspan x="0" y="36">ZEE</tspan></text>
+  </g>
+  <g>
+    <line class="cls-5" x1="1093.84" y1="305.86" x2="1093.6" y2="506.5"/>
+    <text class="cls-6" transform="translate(1078.58 515.87)"><tspan class="cls-7">2003</tspan><tspan x="-35.78" y="9">Tambo Grande</tspan><tspan x="-34.58" y="18">mining project</tspan><tspan x="-23.48" y="27">abandoned</tspan></text>
+  </g>
+  <g>
+    <line class="cls-5" x1="1238.49" y1="305.31" x2="1238.25" y2="419.5"/>
+    <text class="cls-6" transform="translate(1234.64 430.3)"><tspan class="cls-7">2010</tspan><tspan x="0" y="9">Political guidelines</tspan><tspan x="0" y="18">For territorial </tspan><tspan x="0" y="27">ordering</tspan></text>
+  </g>
+  <g>
+    <line class="cls-5" x1="1187.49" y1="306.59" x2="1187.49" y2="488.1"/>
+    <text class="cls-6" transform="translate(1162.57 497.41)">June <tspan class="cls-7" x="19.61" y="0">2008</tspan><tspan x="12.9" y="9">Garcia </tspan><tspan x="-0.74" y="18">Legislative</tspan><tspan x="9.13" y="27">Decrees</tspan><tspan x="-2.61" y="36">1015, 1064,</tspan><tspan x="4.95" y="45">and 1073</tspan><tspan x="-0.08" y="54">(free trade</tspan><tspan x="2.75" y="63">with USA)</tspan></text>
+  </g>
+  <g>
+    <line class="cls-5" x1="1223.99" y1="306.13" x2="1223.99" y2="480.5"/>
+    <text class="cls-6" transform="translate(1221.93 491.14)"><tspan class="cls-7">2009</tspan><tspan x="0" y="9">Peru recognized as</tspan><tspan x="0" y="18">#1 producer of </tspan><tspan x="0" y="27">cocaine</tspan></text>
+  </g>
+  <g>
+    <text class="cls-8" transform="translate(949 453.83)">1992<tspan x="0" y="9">Fujimori</tspan><tspan x="0" y="18">autogolpe for</tspan><tspan x="0" y="27">market reforms</tspan><tspan x="0" y="36">‘Fujishock’</tspan><tspan x="0" y="45">‘Chicago school</tspan><tspan x="0" y="54">invited over for</tspan><tspan x="0" y="63">lunch ...’</tspan></text>
+    <line class="cls-9" x1="958.88" y1="307.03" x2="958.88" y2="444"/>
+  </g>
+  <g>
+    <text class="cls-6" transform="translate(924 474.57)"><tspan class="cls-7">1990</tspan><tspan x="-11.94" y="9">Fujimori</tspan><tspan x="-18.98" y="18">(president</tspan><tspan x="-2.01" y="27">elect)</tspan></text>
+    <line class="cls-5" x1="939.94" y1="306.53" x2="939.94" y2="464.86"/>
+  </g>
+  <g>
+    <line class="cls-5" x1="890.92" y1="306.86" x2="890.92" y2="439.54"/>
+    <text class="cls-6" transform="translate(884.86 447.41)"><tspan class="cls-7">1984</tspan><tspan x="0" y="9">MRTA</tspan><tspan x="0" y="18">appears</tspan></text>
+  </g>
+  <g>
+    <text class="cls-8" transform="translate(871.46 520.75)">1982 Debt Crisis </text>
+    <line class="cls-9" x1="880.27" y1="307.28" x2="880.27" y2="512.82"/>
+  </g>
+  <g>
+    <line class="cls-5" x1="864.87" y1="307.28" x2="864.87" y2="526.39"/>
+    <text class="cls-6" transform="translate(860 535.67)"><tspan class="cls-7">1980</tspan><tspan x="0" y="9">Shining Path appears</tspan></text>
+  </g>
+  <g>
+    <text class="cls-8" transform="translate(624.71 436.79)">1933<tspan x="0" y="9">New Constitution</tspan></text>
+    <line class="cls-9" x1="641.93" y1="306.25" x2="641.93" y2="427.67"/>
+  </g>
+  <g>
+    <line class="cls-5" x1="612.83" y1="306.72" x2="612.83" y2="480.33"/>
+    <text class="cls-6" transform="translate(574.47 491.14)"><tspan class="cls-7">1924- 1932</tspan><tspan x="-4.5" y="9">APRA is born</tspan><tspan x="-17.86" y="18">Haya de la Torre</tspan><tspan x="-12.61" y="27">as APRA leader</tspan></text>
+    <polyline class="cls-5" points="612.86 370.43 635.87 370.43 635.87 307.06"/>
+  </g>
+  <g>
+    <line class="cls-9" x1="601.33" y1="307.11" x2="601.33" y2="418.33"/>
+    <text class="cls-8" transform="translate(584.87 427.94)">1920<tspan x="1.33" y="9">New</tspan><tspan x="-29.76" y="18">Constitution</tspan><tspan x="-7.23" y="27">Leguía</tspan><tspan x="-39.51" y="36">(authoritarian)</tspan></text>
+  </g>
+  <g>
+    <line class="cls-5" x1="578.31" y1="306.21" x2="578.31" y2="375.33"/>
+    <text class="cls-6" transform="translate(563.01 383.91)"><tspan class="cls-7">1909</tspan><tspan x="-28.6" y="9">Haber-Bosch</tspan><tspan x="-9.72" y="18">process</tspan><tspan x="-21.38" y="27">discovered</tspan></text>
+  </g>
+  <g>
+    <polyline class="cls-5" points="497.19 307.18 497.19 368.32 504.79 368.3"/>
+    <line class="cls-5" x1="504.74" y1="307.06" x2="504.74" y2="392.33"/>
+    <text class="cls-6" transform="translate(466.57 403.36)"><tspan class="cls-7">1879-1883</tspan><tspan x="-23.24" y="9">War of the Pacific</tspan></text>
+  </g>
+  <g>
+    <polyline class="cls-5" points="92.28 307.68 92.28 368.82 118.99 368.8"/>
+    <line class="cls-5" x1="119.04" y1="307.56" x2="119.04" y2="392.83"/>
+    <text class="cls-6" transform="translate(116.88 401.48)"><tspan class="cls-7">1533-1569</tspan><tspan x="0" y="9">Toledo Reforms</tspan><tspan x="0" y="18">moved original </tspan><tspan class="cls-10" x="56.27" y="18">enconomienda</tspan><tspan class="cls-11" x="109.23" y="18"> system</tspan><tspan x="0" y="27">to a more governable </tspan><tspan class="cls-10" x="79.18" y="27">hacienda</tspan><tspan class="cls-11" x="112.17" y="27"> system</tspan></text>
+  </g>
+  <g>
+    <line class="cls-9" x1="1145.37" y1="305.39" x2="1145.37" y2="376.92"/>
+    <text class="cls-8" transform="translate(1139.53 386.07)">2006<tspan x="-3.18" y="9">Garcia</tspan><tspan x="-22.58" y="18">(president elect)</tspan><tspan x="-19.06" y="27">return of APRA</tspan><tspan x="-10.42" y="36">neoliberal</tspan><tspan x="-8.75" y="45">populism</tspan></text>
+  </g>
+  <g>
+    <line class="cls-5" x1="695.36" y1="306.33" x2="695.36" y2="374"/>
+    <text class="cls-6" transform="translate(677.36 382.85)"><tspan class="cls-7">1948</tspan><tspan x="-1.79" y="9">Odria</tspan><tspan x="-25.88" y="18">dictatorship</tspan></text>
+  </g>
+  <g>
+    <line class="cls-5" x1="728.16" y1="307.14" x2="728.16" y2="366.5"/>
+    <text class="cls-6" transform="translate(703.27 375.96)"><tspan class="cls-11">      </tspan><tspan class="cls-7" x="10.5" y="0">1956 </tspan><tspan x="0" y="9">de la Torre wins</tspan><tspan x="0" y="18">elections, but not</tspan><tspan x="0" y="27">permited presidency</tspan><tspan x="0" y="36">- instability results</tspan></text>
+  </g>
+  <g>
+    <line class="cls-5" x1="843.92" y1="306.88" x2="843.92" y2="375"/>
+    <text class="cls-6" transform="translate(826.83 385.09)"><tspan class="cls-7">1977</tspan><tspan x="-11.06" y="9">massive</tspan><tspan x="-22.9" y="18">labor strike</tspan><tspan x="-8.24" y="27">in Lima</tspan></text>
+  </g>
+  <g>
+    <text class="cls-6" transform="translate(779.5 481.51)"><tspan class="cls-7">1969</tspan><tspan x="-40.65" y="9">Reforma Agraria</tspan></text>
+    <line class="cls-5" x1="794.78" y1="305.48" x2="794.78" y2="471.7"/>
+  </g>
+  <g>
+    <text class="cls-12" transform="translate(62.08 333.54) rotate(-90)">government</text>
+    <text class="cls-12" transform="translate(39.92 322.1) rotate(-90)">economy</text>
+    <polygon class="cls-13" points="73.24 349.35 73.24 346.54 80.24 349.35 73.24 352.15 73.24 349.35"/>
+    <polyline class="cls-5" points="37.81 325.48 37.79 349.37 73.7 349.35"/>
+    <polygon class="cls-13" points="72.74 327.9 72.74 325.1 79.75 327.9 72.74 330.7 72.74 327.9"/>
+    <line class="cls-5" x1="68.16" y1="327.9" x2="73.21" y2="327.9"/>
+    <text class="cls-12" transform="translate(55.82 324.13) rotate(-90)">form of </text>
+  </g>
+  <g>
+    <text class="cls-8" transform="translate(763.47 584.01)">1979 - new constitution<tspan x="14.34" y="9">written under APRA</tspan></text>
+    <line class="cls-9" x1="853.99" y1="306.64" x2="854.43" y2="443.5"/>
+    <line class="cls-9" x1="853.99" y1="483.37" x2="854.43" y2="577"/>
+  </g>
+  <g>
+    <line class="cls-9" x1="1268.72" y1="306.62" x2="1268.72" y2="368.26"/>
+    <text class="cls-8" transform="translate(1255.54 379.31)">2011<tspan x="0" y="9">Ollanta Humala</tspan><tspan x="0" y="18">(president elect)</tspan><tspan x="0" y="27">military democracy</tspan></text>
+  </g>
+  <g>
+    <text class="cls-12" transform="translate(27.75 274.72) rotate(-90)">Common Property</text>
+    <text class="cls-12" transform="translate(27.75 182.5) rotate(-90)">Extraction</text>
+    <text class="cls-12" transform="translate(27.75 119.28) rotate(-90)">Conservation</text>
+    <text class="cls-12" transform="translate(30.42 526.73) rotate(-90)">Politics and Economics</text>
+  </g>
+  <g>
+    <line class="cls-5" x1="913.04" y1="286.29" x2="913.04" y2="306.15"/>
+    <text class="cls-6" transform="translate(887.8 229.45)"><tspan class="cls-7">1987</tspan><tspan class="cls-11" x="18.31" y="0"> - 24656</tspan><tspan x="-2.51" y="9">Communities</tspan><tspan x="24.5" y="18">24657</tspan><tspan x="0.91" y="27">Delimitation</tspan><tspan x="8.86" y="36">and titling</tspan><tspan x="-5.69" y="45">expropriation,</tspan><tspan x="12.2" y="54">66% sale </tspan></text>
+  </g>
+  <g>
+    <line class="cls-9" x1="816.25" y1="413.54" x2="816.21" y2="499.5"/>
+    <line class="cls-9" x1="816.25" y1="306.5" x2="816.21" y2="386.25"/>
+    <text class="cls-8" transform="translate(728.81 507.17)">1973 OPEC oil embargo<tspan x="4.7" y="9">1974 global recession </tspan></text>
+  </g>
+  <g>
+    <line class="cls-9" x1="544.43" y1="300.82" x2="544.43" y2="312.86"/>
+    <text class="cls-14" transform="translate(531.08 298.62)">1900</text>
+    <line class="cls-9" x1="1049.22" y1="300.82" x2="1049.22" y2="312.21"/>
+    <text class="cls-14" transform="translate(1035.87 298.62)">2000</text>
+    <line class="cls-9" x1="701.7" y1="299.81" x2="701.7" y2="314.1"/>
+    <text class="cls-14" transform="translate(926.4 298.62)">1990</text>
+    <text class="cls-14" transform="translate(688.35 298.62)">1950</text>
+    <line class="cls-9" x1="393.51" y1="300.82" x2="393.51" y2="312.86"/>
+    <line class="cls-9" x1="90.01" y1="300.82" x2="90.01" y2="312.86"/>
+    <text class="cls-14" transform="translate(380.16 298.62)">1820</text>
+    <text class="cls-14" transform="translate(76.16 298.62)">1532</text>
+    <line class="cls-9" x1="860.75" y1="299.81" x2="860.75" y2="314.1"/>
+    <text class="cls-14" transform="translate(849.4 298.62)">1980</text>
+    <text class="cls-14" transform="translate(1443.37 298.62)">2015</text>
+    <text class="cls-14" transform="translate(1541.03 298.62)">2016</text>
+    <line class="cls-9" x1="1238.03" y1="300.82" x2="1238.03" y2="312.21"/>
+    <text class="cls-14" transform="translate(1224.68 298.62)">2010</text>
+    <text class="cls-14" transform="translate(1328.85 298.62)">2013</text>
+    <line class="cls-9" x1="1145.38" y1="300.82" x2="1145.38" y2="312.21"/>
+    <text class="cls-14" transform="translate(1132.03 298.62)">2006</text>
+    <line class="cls-5" x1="854.54" y1="300.42" x2="854.54" y2="306.05"/>
+    <line class="cls-9" x1="1342.75" y1="300.82" x2="1342.75" y2="312.21"/>
+    <line class="cls-9" x1="1457.33" y1="300.82" x2="1457.33" y2="312.21"/>
+    <line class="cls-9" x1="1555.61" y1="300.82" x2="1555.61" y2="312.21"/>
+    <line class="cls-9" x1="939.75" y1="300.82" x2="939.75" y2="312.21"/>
+    <line class="cls-15" x1="89.63" y1="306.65" x2="1554.9" y2="306.65"/>
+  </g>
+  <g>
+    <line class="cls-5" x1="848.76" y1="307.03" x2="848.76" y2="443.5"/>
+    <line class="cls-5" x1="847.93" y1="483.67" x2="847.93" y2="524.83"/>
+    <text class="cls-6" transform="translate(810.42 532.29)">late <tspan class="cls-7" x="15.63" y="0">1970s</tspan><tspan x="-62.43" y="9">narco-trafficking on the rise</tspan><tspan x="-67.65" y="18">cocaine and corruption enter</tspan><tspan x="-18.17" y="27">Andean politics</tspan></text>
+  </g>
+  <g>
+    <text class="cls-6" transform="translate(967.97 35.5)"><tspan class="cls-7">1993 </tspan><tspan x="20.11" y="0">INRENA created SINANPE, FONANPE</tspan><tspan x="0" y="9">Biodiversity Convention adopted </tspan></text>
+    <line class="cls-5" x1="970.24" y1="47.5" x2="970.24" y2="71.65"/>
+  </g>
+  <g>
+    <text class="cls-6" transform="translate(1183.67 87.28)"><tspan class="cls-7">2008</tspan><tspan x="-50.23" y="9">Peru recognized as</tspan><tspan x="-77.26" y="18">Forest Carbon Partnership</tspan><tspan x="-30.85" y="27">Faciliy (FCPC)</tspan></text>
+    <line class="cls-5" x1="1187.47" y1="117.5" x2="1187.45" y2="139"/>
+  </g>
+  <g>
+    <text class="cls-6" transform="translate(1050.6 121.49)"><tspan class="cls-7">2001 </tspan><tspan x="20.11" y="0">Law of Protected</tspan><tspan x="0" y="9">Areas Implemented</tspan><tspan x="0" y="18">Private Conservation</tspan><tspan x="0" y="27">now possible</tspan></text>
+    <line class="cls-5" x1="1064.01" y1="151" x2="1063.99" y2="306.94"/>
+  </g>
+  <g>
+    <line class="cls-5" x1="1014.02" y1="64" x2="1014.02" y2="306.92"/>
+    <text class="cls-6" transform="translate(1011.02 62.12)"><tspan class="cls-7">1997</tspan><tspan class="cls-11" x="18.31" y="0"> ley 26821 </tspan><tspan class="cls-11"><tspan x="0" y="9">           Sustainable Resource Use</tspan><tspan x="0" y="18">           ley 26839 - Cons. Bio.</tspan><tspan x="0" y="27">           ley 26834 - protected areas</tspan></tspan></text>
+  </g>
+  <g>
+    <line class="cls-5" x1="1076.81" y1="285.67" x2="1076.79" y2="306.46"/>
+    <text class="cls-6" transform="translate(1066.56 255.16)"><tspan class="cls-7">2002</tspan><tspan x="18.31" y="0"> </tspan><tspan x="0" y="9">law 27795</tspan><tspan x="0" y="18">Ordering </tspan><tspan x="0" y="27">Territory</tspan></text>
+  </g>
+  <g>
+    <line class="cls-5" x1="1145.37" y1="434.74" x2="1145.37" y2="459.5"/>
+    <text class="cls-6" transform="translate(1130.33 468.14)"><tspan class="cls-7">2006</tspan><tspan x="0" y="9">methodology</tspan><tspan x="0" y="18">ZEE</tspan></text>
+  </g>
+  <g>
+    <line class="cls-5" x1="939.95" y1="62.5" x2="939.93" y2="287.51"/>
+    <text class="cls-6" transform="translate(877.77 32.06)"><tspan class="cls-7">1990</tspan><tspan class="cls-11" x="18.31" y="0"> - Codigo del</tspan><tspan x="-1.62" y="9">Medio Ambiente y</tspan><tspan x="-6.73" y="18">Recursos Naturales</tspan><tspan x="8.88" y="27">(ya derogado?)</tspan></text>
+  </g>
+  <g>
+    <text class="cls-6"><tspan x="1142.73" y="37.59">DS-022-</tspan><tspan class="cls-7" x="1170.93" y="37.59">2009</tspan><tspan x="1189.24" y="37.59">-MINAM</tspan><tspan x="1157.73" y="46.59">OEFA - ley 29235</tspan><tspan x="1161.69" y="55.59">environmental </tspan><tspan x="1155.49" y="64.59">oversight agency</tspan></text>
+    <line class="cls-5" x1="1215.33" y1="68.98" x2="1215.3" y2="305.69"/>
+  </g>
+  <g>
+    <line class="cls-5" x1="1220.83" y1="90.67" x2="1220.83" y2="306.47"/>
+    <text class="cls-6" transform="translate(1219.94 60.36)">April <tspan class="cls-7" x="18.57" y="0">2009</tspan><tspan x="0" y="9">DS-008-2009 for PCAs</tspan><tspan x="0" y="18">zoning and private property</tspan><tspan x="0" y="27">study and master plan</tspan></text>
+  </g>
+  <g>
+    <line class="cls-5" x1="1286.26" y1="142.59" x2="1286.26" y2="306"/>
+    <text class="cls-6" transform="translate(1285.88 101.56)">June<tspan class="cls-16" x="17.86" y="0"> 2011</tspan><tspan x="0" y="9">RP 123-2011 SERNANP</tspan><tspan x="0" y="18">PCA can initiate a fine against</tspan><tspan x="0" y="27">biodiversity crimes - still administrative </tspan><tspan x="0" y="36">process by SERNANP</tspan></text>
+  </g>
+  <g>
+    <line class="cls-9" x1="958.88" y1="520.36" x2="958.88" y2="542.83"/>
+    <text class="cls-8" transform="translate(955.12 552.12)">Guzman capture<tspan x="0" y="9">Sept. 12th 1992</tspan></text>
+  </g>
+  <g>
+    <text class="cls-6" transform="translate(735.73 53.89)"><tspan class="cls-7">1961</tspan><tspan x="-48.97" y="9">First National Park</tspan><tspan x="-10.3" y="18">Cutervo</tspan></text>
+    <line class="cls-5" x1="753.16" y1="73.3" x2="753.16" y2="306.37"/>
+  </g>
+  <g>
+    <text class="cls-6" transform="translate(760.21 38.55)"><tspan class="cls-7">1963</tspan><tspan class="cls-11" x="18.31" y="0"> - law 14552</tspan><tspan x="0" y="9">Servicio Forestal</tspan><tspan x="0" y="18">y de Caza (created) </tspan></text>
+    <line class="cls-5" x1="761.16" y1="60.75" x2="761.16" y2="306.37"/>
+  </g>
+  <g>
+    <line class="cls-5" x1="829.83" y1="124.31" x2="829.83" y2="306.37"/>
+    <text class="cls-6" transform="translate(799.98 86.24)"><tspan class="cls-7">1975</tspan><tspan class="cls-11" x="18.31" y="0"> Ley Forestal y</tspan><tspan x="0" y="9">Fauna Silvestre</tspan><tspan x="0" y="18">SINUC (SINANPE)</tspan><tspan x="0" y="27">CENFOR (SERNANP)</tspan><tspan x="0" y="36">first zoning rules</tspan></text>
+  </g>
+  <g>
+    <rect class="cls-17" x="788.49" y="342.59" width="72.2" height="11.56"/>
+    <rect class="cls-18" x="860.62" y="342.59" width="39.03" height="11.56"/>
+    <rect class="cls-19" x="899.64" y="342.59" width="656.18" height="11.56"/>
+    <rect class="cls-5" x="396.22" y="342.59" width="392.46" height="11.56"/>
+    <rect class="cls-5" x="899.64" y="342.59" width="655.82" height="11.56"/>
+    <rect class="cls-19" x="396.22" y="342.59" width="392.35" height="11.56"/>
+    <rect class="cls-20" x="89.76" y="342.62" width="306.3" height="11.56"/>
+    <rect class="cls-5" x="89.39" y="342.62" width="306.91" height="11.56"/>
+    <rect class="cls-5" x="788.75" y="342.59" width="71.76" height="11.56"/>
+    <text class="cls-21" transform="translate(524.16 350.67)">liberalism </text>
+    <text class="cls-21" transform="translate(992.09 350.67)">neo liberalism </text>
+    <text class="cls-21" transform="translate(1284.59 350.67)">neo liberalism </text>
+    <text class="cls-21" transform="translate(99.16 351.2)">Inca style feudalism</text>
+    <text class="cls-21" transform="translate(193.66 351.2)">plunder</text>
+    <text class="cls-21" transform="translate(284.66 351.2)">extreme extractivism</text>
+    <text class="cls-21" transform="translate(806.94 350.67)">stateism </text>
+  </g>
+  <g>
+    <line class="cls-9" x1="899.69" y1="306.7" x2="899.69" y2="382.48"/>
+    <text class="cls-8" transform="translate(893.97 390.48)">1985-1990<tspan x="0" y="9">Garcia</tspan><tspan x="0" y="18">(president</tspan><tspan x="0" y="27">elect)</tspan><tspan x="0" y="36">APRA</tspan></text>
+  </g>
+  <g>
+    <rect class="cls-22" x="860.38" y="363.5" width="109.64" height="11.56"/>
+    <text class="cls-21" transform="translate(893.54 371.87)">civil war</text>
+  </g>
+  <g>
+    <rect class="cls-23" x="728" y="321.86" width="60.57" height="11.56"/>
+    <rect class="cls-24" x="695.14" y="321.86" width="32.88" height="11.56"/>
+    <rect class="cls-24" x="788.5" y="321.86" width="72.27" height="11.56"/>
+    <rect class="cls-24" x="970.32" y="321.86" width="93.46" height="11.56"/>
+    <rect class="cls-23" x="1063.87" y="321.86" width="491.4" height="11.56"/>
+    <rect class="cls-23" x="859.96" y="322.03" width="110.33" height="11.56"/>
+    <rect class="cls-25" x="396.1" y="321.86" width="299.19" height="11.56"/>
+    <rect class="cls-26" x="89.76" y="321.86" width="306.3" height="11.56"/>
+    <rect class="cls-5" x="970.14" y="321.86" width="93.75" height="11.56"/>
+    <rect class="cls-5" x="1064.19" y="321.86" width="491.26" height="11.56"/>
+    <rect class="cls-5" x="396.39" y="321.86" width="298.98" height="11.56"/>
+    <rect class="cls-5" x="89.39" y="321.86" width="306.91" height="11.56"/>
+    <rect class="cls-5" x="788.5" y="321.86" width="72.17" height="11.56"/>
+    <rect class="cls-5" x="728.06" y="321.86" width="60.51" height="11.56"/>
+    <rect class="cls-5" x="860.47" y="321.86" width="109.79" height="11.56"/>
+    <rect class="cls-5" x="695.35" y="321.86" width="32.67" height="11.56"/>
+    <text class="cls-21" transform="translate(707.15 329.95)">mil.</text>
+    <text class="cls-21" transform="translate(973.86 330.12)">authoritarian democracy?</text>
+    <text class="cls-21" transform="translate(1181.69 330.08)">democracy</text>
+    <text class="cls-21" transform="translate(486.41 329.7)">oligarchy (both elected presidents and military rulers)</text>
+    <text class="cls-21" transform="translate(99.16 329.7)">empire</text>
+    <text class="cls-21" transform="translate(265.66 329.7)">colonial viceroyalty</text>
+    <text class="cls-21" transform="translate(752.31 329.95)">???</text>
+    <text class="cls-21" transform="translate(811.19 329.84)">military</text>
+    <text class="cls-21" transform="translate(883.87 329.95)">democracy</text>
+  </g>
+  <g>
+    <text class="cls-8" transform="translate(822.94 453.34)">1980-1985<tspan x="3.32" y="9">Belaunde</tspan><tspan x="-0.36" y="18">(president</tspan><tspan x="17.68" y="27">elect)</tspan></text>
+    <line class="cls-9" x1="860.53" y1="305.03" x2="860.53" y2="443.98"/>
+  </g>
+  <g>
+    <rect class="cls-27" x="1181" y="139" width="10.92" height="28"/>
+    <text class="cls-6" transform="translate(1172.1 146.4)"><tspan class="cls-7">2008</tspan><tspan x="-31.34" y="9">DL 1013 Mayo</tspan><tspan x="-37.11" y="18">MINAM Created</tspan></text>
+    <line class="cls-5" x1="1187.47" y1="166.48" x2="1187.45" y2="307.84"/>
+  </g>
+  <g>
+    <text class="cls-6" transform="translate(1264.69 104.46)"><tspan class="cls-7">2011</tspan><tspan x="-40.55" y="9">REDD Readiness</tspan><tspan x="-26.9" y="18">Preparation </tspan><tspan x="-36.03" y="27">Proposal (RPP)</tspan><tspan x="-18.77" y="36">approved.</tspan></text>
+    <line class="cls-5" x1="1280.26" y1="142.59" x2="1280.26" y2="306"/>
+  </g>
+  <g>
+    <text class="cls-6" transform="translate(593.41 119.48)"><tspan class="cls-7">1941</tspan><tspan class="cls-11" x="18.31" y="0"> - Peru ratifies the</tspan><tspan x="-62.53" y="9">Convention to Protect Flora, Fauna, and</tspan><tspan x="-99.24" y="18">Beautiful Landscapes in American Countries (OAS)</tspan></text>
+    <line class="cls-5" x1="669" y1="141.25" x2="669" y2="305.97"/>
+  </g>
+  <g>
+    <line class="cls-28" x1="642.6" y1="283.97" x2="688.09" y2="284.09"/>
+    <line class="cls-5" x1="642.25" y1="284.11" x2="702.48" y2="284.19"/>
+    <line class="cls-5" x1="641.91" y1="293.72" x2="641.91" y2="193"/>
+    <line class="cls-5" x1="641.94" y1="307.18" x2="641.94" y2="292.4"/>
+    <text class="cls-6" transform="translate(613.52 172.6)"><tspan class="cls-7">1933-1950</tspan><tspan x="-20.81" y="9">domestic capital</tspan><tspan x="-45.16" y="18">makes small comeback</tspan></text>
+  </g>
+  <g>
+    <line class="cls-5" x1="601.95" y1="274.79" x2="601.95" y2="306.18"/>
+    <rect class="cls-29" x="638.47" y="207.62" width="7.5" height="58.33"/>
+    <text class="cls-6" transform="translate(577.85 217.18)"><tspan class="cls-7">1920 </tspan><tspan x="20.11" y="0">new constitution</tspan><tspan x="0" y="9">protects communal</tspan><tspan x="0" y="18">property: inalienable,</tspan><tspan x="0" y="27">cannot be seized, and</tspan><tspan x="0" y="36">cannot be transferred</tspan><tspan x="0" y="45">through sovereign</tspan><tspan x="0" y="54">prescription</tspan></text>
+  </g>
+  <g>
+    <text class="cls-6" transform="translate(670.01 87.42)"><tspan class="cls-7">1950</tspan><tspan class="cls-11" x="18.31" y="0"> - First</tspan><tspan x="-21.04" y="9">National Reserve</tspan><tspan x="-45.72" y="18">(Cueva de los Lechuzas)</tspan></text>
+    <line class="cls-5" x1="702.16" y1="288.63" x2="702.16" y2="109"/>
+  </g>
+  <g>
+    <rect class="cls-27" x="697.83" y="148" width="7.5" height="46.33"/>
+    <line class="cls-5" x1="704.74" y1="299.8" x2="704.74" y2="305.76"/>
+    <line class="cls-5" x1="704.33" y1="194.25" x2="704.33" y2="288.64"/>
+    <text class="cls-6" transform="translate(674.23 155.72)"><tspan class="cls-7">1951</tspan><tspan class="cls-11" x="18.31" y="0"> new</tspan><tspan x="0" y="9">mining code</tspan><tspan x="0" y="18">Peru’s economy</tspan><tspan x="0" y="27">is “freeest in</tspan><tspan x="0" y="36">Latin America”</tspan></text>
+  </g>
+  <g>
+    <rect class="cls-27" x="933.76" y="123.5" width="10.92" height="46.5"/>
+    <text class="cls-6" transform="translate(932 131.72)"><tspan class="cls-7">1991</tspan><tspan x="-47.93" y="9">DS 708 promocion</tspan><tspan x="-50.39" y="18">de catastro minero</tspan><tspan x="-33.67" y="27">DS 757 private</tspan><tspan x="-22.63" y="36">investment</tspan></text>
+    <line class="cls-5" x1="949.21" y1="169.5" x2="949.18" y2="287.45"/>
+    <line class="cls-5" x1="949.2" y1="300.9" x2="949.2" y2="306.86"/>
+  </g>
+  <g>
+    <line class="cls-5" x1="959.38" y1="119.5" x2="959.37" y2="176.75"/>
+    <rect class="cls-27" x="934.01" y="72" width="10.92" height="45"/>
+    <text class="cls-6" transform="translate(944.11 69.22)"><tspan class="cls-7">1992</tspan><tspan x="-66.38" y="9">new mining code (TUO)</tspan><tspan x="-66.51" y="18">concession governance</tspan><tspan x="-32.41" y="27">EIA regulation</tspan><tspan x="-45.56" y="36">first water quality</tspan><tspan x="-49.37" y="45">(overseen by MEM)</tspan></text>
+  </g>
+  <g>
+    <line class="cls-5" x1="548.53" y1="225.38" x2="548.52" y2="288.65"/>
+    <line class="cls-5" x1="548.5" y1="300" x2="548.49" y2="306.72"/>
+    <text class="cls-6" transform="translate(468.01 196.63)"><tspan class="cls-7">1901</tspan><tspan class="cls-11" x="18.31" y="0"> New mining Code</tspan><tspan x="-4.39" y="9">mining cadaster created</tspan><tspan x="-11.87" y="18">permits foreign ownership</tspan><tspan x="30.57" y="27">of concessions</tspan></text>
+  </g>
+  <g>
+    <line class="cls-28" x1="559.5" y1="283.94" x2="631.84" y2="284.02"/>
+    <line class="cls-5" x1="548.38" y1="283.94" x2="631.84" y2="284.02"/>
+    <line class="cls-5" x1="631.84" y1="307.18" x2="631.84" y2="283.5"/>
+    <line class="cls-5" x1="548.35" y1="181.31" x2="548.34" y2="187.44"/>
+    <text class="cls-6" transform="translate(512.1 159.59)"><tspan class="cls-7">1901-1930</tspan><tspan x="-37.92" y="9">US capital dominates</tspan><tspan x="-21.76" y="18">in copper mining</tspan></text>
+  </g>
+  <g>
+    <line class="cls-5" x1="451.95" y1="272.83" x2="451.95" y2="306.63"/>
+    <text class="cls-6" transform="translate(432.9 261.84)"><tspan class="cls-7">1854</tspan><tspan x="0" y="9">Slavery abolished</tspan></text>
+  </g>
+  <g>
+    <line class="cls-9" x1="970.31" y1="307.03" x2="970.17" y2="394.25"/>
+    <text class="cls-8" transform="translate(964.93 404.29)">1993<tspan x="0" y="9">New Constitution</tspan><tspan x="0" y="18">only imprescriptability</tspan><tspan x="0" y="27">Art 68: cons. bio.</tspan></text>
+  </g>
+  <g>
+    <g>
+      <polygon class="cls-13" points="1248.77 188.6 1246.28 188.4 1249.29 182.37 1251.27 188.81 1248.77 188.6"/>
+      <polygon class="cls-13" points="1253.56 198.28 1254.72 196.06 1259.09 201.18 1252.39 200.49 1253.56 198.28"/>
+      <path class="cls-30" d="M1248.81,188.19a10.68,10.68,0,0,0,5.12,10.28" transform="translate(0 0)"/>
+    </g>
+    <rect class="cls-27" x="1276.26" y="188.5" width="17.23" height="19.5"/>
+    <line class="cls-5" x1="1261.76" y1="208.46" x2="1261.76" y2="306.33"/>
+    <text class="cls-6" transform="translate(1260.25 197.02)">Ago <tspan class="cls-7" x="15.48" y="0">2010</tspan><tspan x="0" y="9">Aprueban LMP</tspan></text>
+  </g>
+  <g>
+    <line class="cls-5" x1="1204.73" y1="228.57" x2="1204.72" y2="306.7"/>
+    <rect class="cls-29" x="1213.25" y="186.26" width="10.92" height="38.47"/>
+    <text class="cls-6" transform="translate(1202.19 195.5)"><tspan class="cls-7">2008</tspan><tspan x="0" y="9">PETT</tspan><tspan x="0" y="18">absorbed by</tspan><tspan x="0" y="27">COFOPRI</tspan></text>
+  </g>
+  <g>
+    <line class="cls-5" x1="516.81" y1="258.41" x2="516.81" y2="306.17"/>
+    <text class="cls-6" transform="translate(502.09 238.01)"><tspan class="cls-7">1888</tspan><tspan x="-40.97" y="9">Registro Publico</tspan><tspan x="-9.43" y="18">created</tspan></text>
+  </g>
+  <g>
+    <line class="cls-5" x1="1225.6" y1="247.67" x2="1225.58" y2="289"/>
+    <line class="cls-5" x1="1225.6" y1="299.75" x2="1225.58" y2="306.25"/>
+    <rect class="cls-29" x="1257.92" y="225" width="31.08" height="21.25"/>
+    <g>
+      <polygon class="cls-13" points="1245.63 223.89 1247.06 221.84 1250.75 227.46 1244.2 225.94 1245.63 223.89"/>
+      <polygon class="cls-13" points="1241.04 219.96 1239.19 221.63 1236.85 215.32 1242.9 218.28 1241.04 219.96"/>
+      <path class="cls-30" d="M1247.74,225.31c-6.15-4.1-8.5-7.25-8.5-7.25" transform="translate(0 0)"/>
+    </g>
+    <text class="cls-6" transform="translate(1223.91 234.29)"><tspan class="cls-7">2009</tspan><tspan class="cls-11" x="18.31" y="0"> rural land titling</tspan><tspan x="0" y="9">moved to regions</tspan></text>
+  </g>
+  <g>
+    <line class="cls-5" x1="1199.98" y1="279.5" x2="1199.97" y2="306.7"/>
+    <rect class="cls-29" x="1201.42" y="236.5" width="7.5" height="44"/>
+    <rect class="cls-29" x="1220.92" y="254.5" width="7.5" height="26"/>
+    <rect class="cls-29" x="1211.42" y="246" width="10.92" height="34.83"/>
+    <text class="cls-6" transform="translate(1194.24 246.67)"><tspan class="cls-7">2008</tspan><tspan x="0" y="9">decrees</tspan><tspan x="0" y="18">repealed</tspan><tspan x="0" y="27">(sept/oct)</tspan></text>
+  </g>
+  <g>
+    <line class="cls-5" x1="1129.01" y1="222" x2="1128.76" y2="307"/>
+    <text class="cls-6" transform="translate(1127.85 183.48)">10/13/<tspan class="cls-7" x="23.3" y="0">2005</tspan><tspan x="0" y="9">General Law</tspan><tspan x="0" y="18">of the </tspan><tspan x="0" y="27">Environment</tspan><tspan x="0" y="36">28611 </tspan></text>
+  </g>
+  <g>
+    <rect class="cls-29" x="1258.57" y="252.47" width="7.5" height="28.67"/>
+    <rect class="cls-29" x="1277.62" y="252.23" width="13.29" height="28.52"/>
+    <text class="cls-6" transform="translate(1249.49 259.79)">May <tspan class="cls-7" x="16.49" y="0">2010</tspan><tspan x="0" y="9">previos informed</tspan><tspan x="0" y="18">consultation/consent</tspan></text>
+    <line class="cls-5" x1="1253.43" y1="280" x2="1253.43" y2="306.88"/>
+  </g>
+  <g>
+    <rect class="cls-29" x="1363.74" y="215.33" width="7.5" height="20.33"/>
+    <text class="cls-6" transform="translate(1308.28 222.59)">DS-001-<tspan class="cls-7" x="28.2" y="0">2013</tspan><tspan x="46.51" y="0">-AG</tspan><tspan x="0" y="9">rural titling authority </tspan><tspan x="0" y="18">moved to Ministry of Ag. </tspan><tspan x="0" y="27">and Irrigation - MINAGRI</tspan></text>
+    <line class="cls-5" x1="1342.93" y1="253" x2="1342.93" y2="288.54"/>
+    <g>
+      <polygon class="cls-13" points="1295.53 222.94 1296.65 225.18 1289.94 225.73 1294.42 220.71 1295.53 222.94"/>
+      <polygon class="cls-13" points="1301.18 220.8 1300.59 218.37 1307.26 219.34 1301.76 223.23 1301.18 220.8"/>
+      <path class="cls-30" d="M1293.27,224.11c6.55-3.44,10.43-4,10.43-4" transform="translate(0 0)"/>
+    </g>
+  </g>
+  <g>
+    <text class="cls-6" transform="translate(1370.15 148.62)"><tspan class="cls-7">2014 </tspan><tspan x="20.11" y="0">Ley 30230</tspan><tspan x="-62.27" y="9">simplified taxes and permissions</tspan><tspan class="cls-11"><tspan x="-26.29" y="18"> for foreign investment</tspan></tspan></text>
+    <line class="cls-5" x1="1425.05" y1="169.33" x2="1425.05" y2="306.23"/>
+  </g>
+  <g>
+    <rect class="cls-29" x="1416.85" y="201.44" width="16.88" height="24.48"/>
+    <rect class="cls-27" x="1416.85" y="177.13" width="16.88" height="24.48"/>
+    <g>
+      <polygon class="cls-13" points="1370.01 176.53 1367.71 177.5 1367.6 170.77 1372.32 175.56 1370.01 176.53"/>
+      <polygon class="cls-13" points="1378.72 182.91 1378.73 180.41 1384.97 182.93 1378.71 185.41 1378.72 182.91"/>
+      <path class="cls-30" d="M1369.85,176.15a10.68,10.68,0,0,0,9.28,6.76" transform="translate(0 0)"/>
+    </g>
+    <text class="cls-6" transform="translate(1388.7 186.52)"><tspan class="cls-7">2015 </tspan><tspan x="20.11" y="0">from title III 30230</tspan><tspan x="-5.11" y="9">speeds rural title process</tspan><tspan x="-0.97" y="18">if in an area of influence</tspan><tspan x="-14.5" y="27">for extractive investment or</tspan><tspan x="13.63" y="36">government project</tspan></text>
+    <line class="cls-5" x1="1473.21" y1="225" x2="1473.21" y2="306.67"/>
+  </g>
+  <g>
+    <text class="cls-6" transform="translate(1480.28 160.11)"><tspan class="cls-7">2015 </tspan><tspan x="20.11" y="0">Ley 30327</tspan><tspan class="cls-11"><tspan x="0" y="9">to  promote investment</tspan></tspan><tspan x="0" y="18">and sustainable </tspan><tspan class="cls-11"><tspan x="0" y="27">economic growth     </tspan></tspan></text>
+    <line class="cls-5" x1="1481.71" y1="191" x2="1481.71" y2="306.23"/>
+  </g>
+  <g>
+    <rect class="cls-29" x="1468.19" y="232.29" width="16.88" height="45.97"/>
+    <text class="cls-6" transform="translate(1442.4 239.39)">DS 001-<tspan class="cls-7" x="27.26" y="0">2015</tspan><tspan x="45.57" y="0">-EM</tspan><tspan class="cls-7" x="59.04" y="0"> </tspan><tspan x="0" y="9">allows community </tspan><tspan x="0" y="18">officials to make decisions</tspan><tspan x="0" y="27">without an assembly</tspan><tspan x="0" y="36">mod 26505 and 24656</tspan></text>
+    <line class="cls-5" x1="1461.38" y1="277.67" x2="1461.38" y2="288.33"/>
+    <line class="cls-5" x1="1461.38" y1="300.1" x2="1461.38" y2="306.33"/>
+  </g>
+  <g>
+    <rect class="cls-29" x="1387.74" y="251.67" width="7.5" height="31.93"/>
+    <rect class="cls-29" x="1421.22" y="253.35" width="7.5" height="30.65"/>
+    <text class="cls-6" transform="translate(1356.28 262.92)">DS-008-<tspan class="cls-7" x="28.2" y="0">2014</tspan><tspan x="46.51" y="0">-MINAGRI</tspan><tspan x="0" y="9">rural titling office </tspan><tspan x="0" y="18">created in MINAGRI</tspan></text>
+    <line class="cls-5" x1="1392.6" y1="284" x2="1392.6" y2="306.21"/>
+  </g>
+  <g>
+    <rect class="cls-27" x="1212.75" y="140.67" width="10.92" height="42.67"/>
+    <rect class="cls-27" x="1275.52" y="161.67" width="16.82" height="11.67"/>
+    <line class="cls-5" x1="1199.12" y1="183" x2="1199.09" y2="236"/>
+    <text class="cls-6" transform="translate(1195.6 151.39)">7/31/<tspan class="cls-7" x="18.99" y="0">2008</tspan><tspan x="0" y="9">DS 002-2008-MINAM</tspan><tspan x="0" y="18">national water standards</tspan><tspan x="0" y="27">published (ECA)</tspan></text>
+  </g>
+  <g>
+    <line class="cls-5" x1="970.24" y1="109.33" x2="970.24" y2="307.5"/>
+    <rect class="cls-27" x="1009.26" y="80.08" width="10.92" height="28.87"/>
+    <text class="cls-6" transform="translate(968.11 79.68)"><tspan class="cls-7">1993</tspan><tspan x="0" y="9">DS 016-93-EM</tspan><tspan x="0" y="18">Ambiente y la</tspan><tspan x="0" y="27">Actividad Minera </tspan></text>
+  </g>
+  <g>
+    <line class="cls-5" x1="978.98" y1="156.58" x2="978.98" y2="202.48"/>
+    <rect class="cls-27" x="1008.26" y="129.31" width="10.92" height="27.64"/>
+    <text class="cls-6" transform="translate(976.69 127.72)"><tspan class="cls-7">1994</tspan><tspan x="0" y="9">CONAM initiated</tspan><tspan x="0" y="18">consejo nacional</tspan><tspan x="0" y="27">de ambiente</tspan></text>
+  </g>
+  <g>
+    <line class="cls-5" x1="1001.52" y1="198.8" x2="1001.52" y2="306.92"/>
+    <rect class="cls-27" x="1007.93" y="162.31" width="10.92" height="36.03"/>
+    <g>
+      <polygon class="cls-13" points="1041.83 203.72 1039.63 204.92 1038.86 198.17 1044.03 202.53 1041.83 203.72"/>
+      <polygon class="cls-13" points="1049.68 223.45 1052.15 223.09 1050.6 229.69 1047.21 223.81 1049.68 223.45"/>
+      <path class="cls-30" d="M1041.63,203.64a52.3,52.3,0,0,1,8.21,20" transform="translate(0 0)"/>
+    </g>
+    <text class="cls-6" transform="translate(982.58 169.26)"><tspan class="cls-7">1996 </tspan><tspan x="20.11" y="0">Law of the</tspan><tspan x="0" y="9">Canon Minero</tspan><tspan x="0" y="18">ley 26570</tspan><tspan x="0" y="27">mining easements </tspan></text>
+  </g>
+  <g>
+    <line class="cls-5" x1="978.98" y1="223.26" x2="978.98" y2="267.06"/>
+    <rect class="cls-29" x="995" y="212" width="25" height="11.61"/>
+    <text class="cls-6" transform="translate(974.67 211.59)"><tspan class="cls-7">1994</tspan><tspan x="0" y="9">SUNARP created</tspan></text>
+  </g>
+  <g>
+    <line class="cls-5" x1="1123.66" y1="206" x2="1123.41" y2="306.33"/>
+    <rect class="cls-27" x="1057.5" y="168.5" width="12" height="20.5"/>
+    <text class="cls-6" transform="translate(1106.89 168.02)"><tspan class="cls-7">2005</tspan><tspan x="-52.24" y="9">Ley Marco Nacional</tspan><tspan x="-48.59" y="18">Gestion Ambiental</tspan><tspan x="-3.23" y="27">28245</tspan><tspan x="-33.35" y="36">009-2005-PCM</tspan></text>
+  </g>
+  <g>
+    <rect class="cls-29" x="1183.5" y="233.94" width="7.5" height="49.73"/>
+    <rect class="cls-29" x="1121" y="244.36" width="12" height="29.64"/>
+    <text class="cls-6" transform="translate(1170.87 244.25)"><tspan class="cls-7">2008</tspan><tspan x="-52.64" y="9">(May/June) decrees</tspan><tspan x="-49.47" y="18">50% attending can</tspan><tspan x="-54.52" y="27">alienate community</tspan><tspan x="-13.3" y="36">property</tspan></text>
+    <line class="cls-5" x1="1187.47" y1="284" x2="1187.45" y2="307.84"/>
+  </g>
+  <g>
+    <rect class="cls-29" x="996" y="229.5" width="21.75" height="29"/>
+    <rect class="cls-29" x="1006.34" y="237.37" width="21.75" height="29"/>
+    <line class="cls-5" x1="989.19" y1="258.71" x2="989.19" y2="306.92"/>
+    <text class="cls-6" transform="translate(983.24 238.02)"><tspan class="cls-7">1995</tspan><tspan class="cls-11" x="18.31" y="0"> Ley de Tierras</tspan><tspan x="0" y="9">COFOPRI created</tspan><tspan x="0" y="18">66% vote to sell</tspan><tspan class="cls-11"><tspan x="0" y="27">             26505</tspan></tspan></text>
+    <g>
+      <polygon class="cls-13" points="1050.32 259.89 1047.87 260.41 1049.02 253.77 1052.76 259.37 1050.32 259.89"/>
+      <polygon class="cls-13" points="1051.31 270.19 1053.78 270.54 1050.43 276.38 1048.83 269.84 1051.31 270.19"/>
+      <path class="cls-30" d="M1050.23,259.48c1.54,7.24,1,11.12,1,11.12" transform="translate(0 0)"/>
+    </g>
+  </g>
+  <g>
+    <line class="cls-5" x1="978.98" y1="287.12" x2="978.98" y2="307.47"/>
+    <rect class="cls-29" x="984.75" y="268.25" width="9" height="19.25"/>
+    <rect class="cls-29" x="993.25" y="276.75" width="24.5" height="11"/>
+    <text class="cls-6" transform="translate(972.79 276.44)"><tspan class="cls-7">1994</tspan><tspan x="0" y="9">Peru adopts ILO 169</tspan></text>
+  </g>
+  <g>
+    <line class="cls-5" x1="959.38" y1="214.61" x2="959.37" y2="306.45"/>
+    <rect class="cls-29" x="932.94" y="187.92" width="25" height="27.02"/>
+    <rect class="cls-29" x="942.54" y="178.2" width="11.62" height="15.98"/>
+    <text class="cls-6" transform="translate(943.95 185.83)"><tspan class="cls-7">1992</tspan><tspan x="-29.86" y="9">PETT created</tspan><tspan x="-31.45" y="18">Ronderos can</tspan><tspan x="-20.16" y="27">carry arms</tspan></text>
+  </g>
+  <g>
+    <line class="cls-5" x1="421.05" y1="306.23" x2="421.05" y2="213.03"/>
+    <text class="cls-6" transform="translate(384.55 191.75)"><tspan class="cls-7">1840-1880</tspan><tspan x="-43.58" y="9">massive guano exports</tspan><tspan x="-55.71" y="18">British capital is dominant</tspan></text>
+    <line class="cls-28" x1="422.84" y1="284.37" x2="495.19" y2="284.45"/>
+    <polyline class="cls-5" points="498.58 306.83 498.58 284.18 421.5 284.19"/>
+  </g>
+  <g>
+    <text class="cls-6" transform="translate(92.79 164.35)"><tspan class="cls-7">1533</tspan><tspan x="0" y="9">within less than one year</tspan><tspan x="0" y="18">Pizarro and his men export</tspan><tspan x="0" y="27">13,135 kgs of gold </tspan><tspan x="0" y="36">23,405 kgs of silver</tspan></text>
+    <line class="cls-5" x1="92.38" y1="289.17" x2="92.38" y2="201.33"/>
+  </g>
+  <g>
+    <text class="cls-6" transform="translate(88.07 127.52)"><tspan class="cls-7">1532</tspan><tspan x="0" y="9">all mineral resources declared </tspan><tspan x="0" y="18">property of the Spanish Crown</tspan></text>
+    <line class="cls-5" x1="89.79" y1="289.12" x2="89.79" y2="148.67"/>
+  </g>
+  <g>
+    <text class="cls-6" transform="translate(254.41 231.72)">Mita system of labor tax<tspan x="0" y="9">appropriated by Spanish from </tspan><tspan x="0" y="18">crumbling Inca empire</tspan></text>
+    <text class="cls-31" transform="translate(266.41 259.98)">access to land includes<tspan x="0" y="9">obligatory labor for </tspan><tspan x="0" y="18">all indigenous communities</tspan></text>
+    <line class="cls-5" x1="255.17" y1="284.53" x2="255.17" y2="252.37"/>
+    <g>
+      <line class="cls-5" x1="370.33" y1="284.18" x2="103.5" y2="284.19"/>
+      <polygon class="cls-13" points="370.19 284.18 370.22 281.68 376.44 284.25 370.16 286.68 370.19 284.18"/>
+      <polygon class="cls-13" points="103.91 284.18 103.89 281.68 97.66 284.25 103.94 286.68 103.91 284.18"/>
+    </g>
+  </g>
+  <g>
+    <text class="cls-6" transform="translate(104.16 220.14)">All land owned by Inca with four<tspan x="0" y="9">major administrative divisions</tspan><tspan x="0" y="18">based on production for:</tspan><tspan x="0" y="27">- the Inca</tspan><tspan x="0" y="36">- the empire</tspan><tspan x="0" y="45">- the local community</tspan><tspan x="0" y="54">- family subsistence (the </tspan><tspan class="cls-10" x="89.59" y="54">Allyu</tspan><tspan x="106.77" y="54">) </tspan></text>
+    <text class="cls-32" transform="translate(150.83 252.81)">}<tspan class="cls-33" x="4.24" y="-1"> a form of labor tax </tspan></text>
+  </g>
+  <g>
+    <line class="cls-5" x1="804.83" y1="157.27" x2="804.83" y2="306.37"/>
+    <rect class="cls-27" x="823.56" y="139.03" width="10.92" height="17.92"/>
+    <text class="cls-6" transform="translate(799.57 145.77)"><tspan class="cls-7">1971</tspan><tspan class="cls-11" x="18.31" y="0"> ley  general</tspan><tspan x="0" y="9">de la mineria</tspan></text>
+  </g>
+  <g>
+    <line class="cls-5" x1="870.69" y1="193.03" x2="870.66" y2="287.75"/>
+    <line class="cls-5" x1="870.69" y1="300.25" x2="870.66" y2="307"/>
+    <rect class="cls-27" x="824.67" y="173.08" width="10.92" height="19.4"/>
+    <text class="cls-6" transform="translate(838.83 172.21)"><tspan class="cls-7">1981</tspan><tspan class="cls-11" x="18.31" y="0"> DL 109</tspan><tspan x="-17.62" y="9">new mining code</tspan><tspan x="-26.3" y="18">w/new constitution</tspan></text>
+  </g>
+  <g>
+    <line class="cls-5" x1="788.99" y1="150.75" x2="788.99" y2="306.37"/>
+    <rect class="cls-34" x="752.01" y="79.06" width="10.92" height="72.55"/>
+    <text class="cls-35" transform="translate(772.24 77.57)"><tspan class="cls-7">1968</tspan><tspan x="-17.5" y="9">Ley 16726</tspan><tspan x="-16.69" y="18">Nat Parks</tspan><tspan x="-28.58" y="27">Nat Reserves</tspan><tspan x="-39.25" y="36">Nat Sanctuaries</tspan><tspan x="-42.77" y="45">Hist. Sanctuaries</tspan><tspan x="-42.75" y="54">!expropriation of</tspan><tspan x="-47.36" y="63">property to create</tspan><tspan x="-33.95" y="72">national parks</tspan></text>
+  </g>
+  <g>
+    <line class="cls-5" x1="795.33" y1="182.07" x2="795.33" y2="306.37"/>
+    <rect class="cls-27" x="786.25" y="165.67" width="10.92" height="18.75"/>
+    <rect class="cls-27" x="800.28" y="165.07" width="10.92" height="19.14"/>
+    <text class="cls-6" transform="translate(765.63 164.07)"><tspan class="cls-7">1969</tspan><tspan x="0" y="9">Ley General</tspan><tspan x="0" y="18">de las Aguas</tspan></text>
+  </g>
+  <g>
+    <line class="cls-5" x1="854.54" y1="227.76" x2="854.54" y2="288.31"/>
+    <rect class="cls-29" x="749.14" y="198.67" width="84.86" height="29"/>
+    <text class="cls-6" transform="translate(715.17 206.82)"><tspan class="cls-7">1979 </tspan><tspan x="20.11" y="0">- Communal Property still protected,</tspan><tspan class="cls-10" x="1.92" y="9">inalienabilidad: </tspan><tspan x="59.36" y="9">100% vote allows transfer</tspan><tspan class="cls-10"><tspan x="17.47" y="18">inembargabilidad, imprescriptibilidad</tspan></tspan></text>
+  </g>
+  <g>
+    <line class="cls-5" x1="837.61" y1="275.12" x2="848.76" y2="307.03"/>
+    <rect class="cls-29" x="783.8" y="245.67" width="84.86" height="29"/>
+    <rect class="cls-29" x="784.47" y="237.33" width="21.86" height="32"/>
+    <text class="cls-36" transform="translate(785.25 244.95)"><tspan class="cls-7">1978</tspan><tspan x="18.31" y="0"> </tspan><tspan x="0" y="9">changed to eliminate </tspan><tspan x="0" y="18">indigenous property </tspan><tspan x="0" y="27">rights on forest lands</tspan></text>
+    <g>
+      <polygon class="cls-13" points="780.99 232.73 782.31 230.6 786.3 236.02 779.67 234.86 780.99 232.73"/>
+      <polygon class="cls-13" points="770.2 232.59 771.64 234.64 765.1 236.2 768.76 230.55 770.2 232.59"/>
+      <path class="cls-30" d="M781.34,233a10.68,10.68,0,0,0-11.48-.11" transform="translate(0 0)"/>
+    </g>
+  </g>
+  <g>
+    <line class="cls-37" x1="782.38" y1="292.23" x2="807.19" y2="302.51"/>
+    <line class="cls-5" x1="782.38" y1="292.23" x2="816.7" y2="306.4"/>
+    <rect class="cls-29" x="747.47" y="244.33" width="21.86" height="47.33"/>
+    <rect class="cls-29" x="755.47" y="236.67" width="21.86" height="17"/>
+    <text class="cls-36" transform="translate(758.84 244.55)"><tspan class="cls-7">1974</tspan><tspan x="18.31" y="0"> </tspan><tspan x="-37.9" y="9">Law of Native of</tspan><tspan x="-28.51" y="18">Communities</tspan><tspan x="-32.03" y="27">of the Amazon</tspan><tspan x="-40.03" y="36">protected native</tspan><tspan x="-27.55" y="45">communities</tspan></text>
+  </g>
+  <g>
+    <text class="cls-8" transform="translate(372.54 377.13)">1821<tspan x="0" y="9">Independence</tspan><tspan x="0" y="18">Peru</tspan></text>
+    <line class="cls-9" x1="396.21" y1="307.1" x2="396.21" y2="376.24"/>
+  </g>
+  <g>
+    <text class="cls-8" transform="translate(772.24 443.14)">1968<tspan x="-58.64" y="9">Military ‘revolution’</tspan><tspan x="-47.05" y="18">Velasco Alvarado</tspan></text>
+    <line class="cls-9" x1="788.64" y1="305.53" x2="788.64" y2="434"/>
+  </g>
+  <g>
+    <text class="cls-8" transform="translate(1051.69 439.53)">2001<tspan x="-8.06" y="9">Toledo</tspan><tspan x="-45.16" y="18">(president elect)</tspan></text>
+    <line class="cls-9" x1="1063.97" y1="307.03" x2="1063.97" y2="430"/>
+  </g>
+  <g>
+    <text class="cls-8" transform="translate(82.84 384.57)">1532<tspan x="0" y="10.4">Pizarro </tspan><tspan x="0" y="20.8">arrives</tspan><tspan x="0" y="31.2">in Peru</tspan></text>
+    <line class="cls-9" x1="90.02" y1="307.04" x2="90.02" y2="376.17"/>
+  </g>
+  <text class="cls-38" transform="translate(408.47 46.45)">Perú at a Glance</text>
+</svg>
